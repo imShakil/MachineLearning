@@ -20,13 +20,26 @@ import seaborn
 import sklearn
 import tensorflow
 
-print("Pandas Version: {}".format(pandas.__version__))
-print("Numpy Version: {}".format(numpy.__version__))
-print("Opencv Version: {}".format(cv2.__version__))
-print("Keras Version: {}".format(keras.__version__))
-print("Gym Version: {}".format(gym.__version__))
-print("Matplotlib Version: {}".format(matplotlib.__version__))
-print("Scipy Version: {}".format(scipy.__version__))
-print("Seaborn Version: {}".format(seaborn.__version__))
-print("Sklearn Version: {}".format(sklearn.__version__))
-print("Tensorflow Version: {}".format(tensorflow.__version__))
+
+# import theano
+
+
+def VerSion():
+    print("Pandas Version: {}".format(pandas.__version__))
+    print("Numpy Version: {}".format(numpy.__version__))
+    print("Opencv Version: {}".format(cv2.__version__))
+    print("Keras Version: {}".format(keras.__version__))
+    print("Gym Version: {}".format(gym.__version__))
+    print("Matplotlib Version: {}".format(matplotlib.__version__))
+    print("Scipy Version: {}".format(scipy.__version__))
+    print("Seaborn Version: {}".format(seaborn.__version__))
+    print("Sklearn Version: {}".format(sklearn.__version__))
+    print("Tensorflow Version: {}".format(tensorflow.__version__))
+    # print("Theano Version: {}".format(theano.__version__))
+
+
+"""
+from theano import config
+config.cxx = 'g++'
+config.gcc.cxxflags = '-fopenmp -O3 -opt-prefetch=2 -funroll-loops'
+"""

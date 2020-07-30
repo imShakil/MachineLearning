@@ -3,7 +3,7 @@
 ### Courses Lists
 - Data Visualization on Python (Udemy) (Completed)
 - Mathematics For Machine Learning Engineers:Linear Algebra (Coursera) (Completed)
-- Machine Learning (Coursera) (Ongoing)
+- Machine Learning with Python (Coursera)
 
 
 ### Project Lists

@@ -1,8 +1,8 @@
 # Machine Learning
 
 ## Courses List
-- Data Visualization on Python (Udemy) (Completed)
-- Mathematics For Machine Learning:Linear Algebra (Coursera) (Completed)
-- Machine Learning (Coursera) (Completed)
-- Machine Learning with Python (Coursera) (Ongoing)
+- Data Visualization on Python (Udemy)
+- Machine Learning (Coursera)
+- Mathematics For Machine Learning Engineers:Linear Algebra (Coursera)
+- Machine Learning with Python (Coursera)
 
